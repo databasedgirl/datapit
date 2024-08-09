@@ -555,7 +555,12 @@ video {
 }
 .bg-dkb {
   --tw-bg-opacity: 1;
+
   background-color: rgb(18 19 22 / var(--tw-bg-opacity));
+}
+.bg-ldb {
+  --tw-bg-opacity: 1;
+  background-color: rgb(27 28 33 / var(--tw-bg-opacity));
 }
 .bg-nbg\/80 {
   background-color: rgb(27 28 31 / 0.8);
@@ -581,6 +586,10 @@ video {
 .text-mdw {
   --tw-text-opacity: 1;
   color: rgb(215 218 234 / var(--tw-text-opacity));
+}
+.text-mdg {
+  --tw-text-opacity: 1;
+  color:rgb(104 107 115 / var(--tw-text-opacity));
 }
 .backdrop-blur-sm {
   --tw-backdrop-blur: blur(4px);
